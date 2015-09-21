@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="container-fluid">
+        {{ content }}
+    </div>
+
+    <footer class="footer">  
+      <div class="container">
+        <p class="small text-center">© Copyright {{ site.time | date: '%Y' }} {{ site.author }}</p>
+      </div>
+    </footer>
+
+  </body>
+
+</html>

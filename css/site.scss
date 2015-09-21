@@ -1,0 +1,61 @@
+---
+---
+
+@import "bootstrap";
+
+.site-header {
+	border-bottom-width:0.1em;
+	border-bottom-color:#9E9E9E;
+	border-bottom-style:solid;
+	box-shadow: 0px 2px 5px #888888;
+	background-color:#fdf6e3;
+}
+
+.urlbox {
+	padding-right:0em;
+	margin-right:0em;
+}
+
+.titlebox {
+	padding-left:0em;
+	margin-left:0em;
+}
+
+.nav-top {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li .navlink {
+	display: inline;
+}
+
+.footer {
+	background-color: #073642;
+	font-color: #93a1a1;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #073642;
+}
+
+.small {
+	color: #b58900;
+	padding-top:1.75em;
+}
