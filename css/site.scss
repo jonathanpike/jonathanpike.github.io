@@ -2,6 +2,8 @@
 ---
 
 @import "bootstrap";
+@import "syntax.css";
+@import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
 
 .site-header {
 	border-bottom-width:0.1em;
@@ -11,29 +13,37 @@
 	background-color:#fdf6e3;
 }
 
-.urlbox {
-	padding-right:0em;
-	margin-right:0em;
-}
-
-.titlebox {
-	padding-left:0em;
-	margin-left:0em;
-}
-
 .nav-top {
 	list-style-type: none;
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
-li .navlink {
-	display: inline;
+.navlink {
+	display: inline-block;
+  width:5em;
+}
+
+#post-list {
+  list-style-type: none;
 }
 
 .footer {
 	background-color: #073642;
 	font-color: #93a1a1;
+}
+
+.fish-sh {
+  font-family: 'Inconsolata', ;
+  font-weight: 700;
+}
+
+.title {
+  font-family: 'Inconsolata', ;
+}
+
+.clear {
+  clear:both;
 }
 
 /* Sticky footer styles

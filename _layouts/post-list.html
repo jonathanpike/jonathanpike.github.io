@@ -1,3 +1,5 @@
+
+<div>
 <ul id="post-list">
     {% for post in paginator.posts %}
         <li>
@@ -10,7 +12,10 @@
         </li>
     {% endfor %}
 </ul>
+</div>
 
+<div class="paginator">
 {% if paginator.previous_page or paginator.next_page %}
     {% include pagination.html %}
 {% endif %}
+</div>

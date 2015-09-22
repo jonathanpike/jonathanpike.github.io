@@ -11,11 +11,9 @@
         {{ content }}
     </div>
 
-    <footer class="footer">  
-      <div class="container">
-        <p class="small text-center">© Copyright {{ site.time | date: '%Y' }} {{ site.author }}</p>
-      </div>
-    </footer>
+    {% include archive.html %}
+
+    {% include footer.html %}
 
   </body>
 

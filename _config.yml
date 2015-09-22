@@ -10,5 +10,10 @@ paginate: 5
 timezone: America/Toronto
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
+
+# Markdown Processor
+kramdown: 
+  input: GFM
+  syntax_highlighter: rouge
