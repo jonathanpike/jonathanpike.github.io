@@ -3,7 +3,7 @@ title: Personal Development
 email: jonathan.d.s.pike@gmail.com
 author: Jonathan Pike
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jonathanpike.net" # the base hostname & protocol for your site
+url: "jonathanpike.net" # the base hostname & protocol for your site
 twitter_username: jonathanpike
 github_username:  jonathanpike
 paginate: 5

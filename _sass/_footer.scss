@@ -1,0 +1,30 @@
+/* Based on Bootstrap Sticky Footer */
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #073642;
+  color: #93a1a1;
+  border-top-width:0.1em;
+  border-top-color:#9E9E9E;
+  border-top-style:solid;
+}
+
+.small {
+	color: #b58900;
+	padding-top:1.75em;
+}
+

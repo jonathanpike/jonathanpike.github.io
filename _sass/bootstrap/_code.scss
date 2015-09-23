@@ -15,18 +15,18 @@ samp {
 code {
   padding: 2px 4px;
   font-size: 90%;
-  color: $code-color;
-  background-color: $code-bg;
-  border-radius: $border-radius-base;
+  /*color: $code-color;*/
+  /*background-color: $code-bg;*/
+  /*border-radius: $border-radius-base;*/
 }
 
 // User input typically entered via keyboard
 kbd {
   padding: 2px 4px;
   font-size: 90%;
-  color: $kbd-color;
-  background-color: $kbd-bg;
-  border-radius: $border-radius-small;
+  /*color: $kbd-color;*/
+  /*background-color: $kbd-bg;*/
+  /*border-radius: $border-radius-small;*/
   box-shadow: inset 0 -1px 0 rgba(0,0,0,.25);
 
   kbd {
@@ -46,10 +46,10 @@ pre {
   line-height: $line-height-base;
   word-break: break-all;
   word-wrap: break-word;
-  color: $pre-color;
-  background-color: $pre-bg;
+  /*color: $pre-color;*/
+  /*background-color: $pre-bg;*/
   border: 1px solid $pre-border-color;
-  border-radius: $border-radius-base;
+  /*border-radius: $border-radius-base;*/
 
   // Account for some code outputs that place code tags in pre tags
   code {
@@ -58,7 +58,7 @@ pre {
     color: inherit;
     white-space: pre-wrap;
     background-color: transparent;
-    border-radius: 0;
+    /*border-radius: 0;*/
   }
 }
 
