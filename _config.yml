@@ -12,6 +12,7 @@ timezone: America/Toronto
 # Build settings
 markdown: kramdown
 highlighter: rouge
+permalinks: pretty
 
 # Markdown Processor
 kramdown: 

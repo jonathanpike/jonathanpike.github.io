@@ -1,23 +1,20 @@
 ---
 layout: default
 ---
-
-<ul id="post-list">
+<div class="col-xs-9 center">
+  <ul id="post-list">
     {% for post in paginator.posts %}
-        <li>
-            <h1 class="title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} </h1>
-            <p class="date">{{ post.date | date:"%B %d, %Y" }}</p>
-            <h2>{{ post.description }}</h2></a>
-            <section class="post-excerpt" itemprop="description">
-            <p>{{ post.content }}</p>
+      <li>
+        <h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}</a></h1>
+        <p class="date">{{ post.date | date:"%B %d, %Y" }}</p>
+        <section class="post-excerpt" itemprop="description">
+              <p>{{ post.content }}</p>
         </section>
-        </li>
+      </li>
     {% endfor %}
-</ul>
-
-{% if paginator.previous_page or paginator.next_page %}
-    {% include pagination.html %}
-{% endif %}
+  </ul>
+</div>
+<br /><br />
 
 
   

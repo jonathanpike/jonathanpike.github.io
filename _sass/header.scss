@@ -1,0 +1,53 @@
+.site-header {
+	border-bottom-width:0.1em;
+	border-bottom-color:#9E9E9E;
+	border-bottom-style:solid;
+	box-shadow: 0px 2px 5px #888888;
+	background-color:#073642;
+}
+
+.title {
+  font-family: 'Inconsolata', ;
+  color: #2AA198;
+}
+
+.title a:link {
+  font-family: 'Inconsolata', ;
+  font-weight: 700;
+  color: #268bd2;
+}
+
+.title a:visited {
+  font-family: 'Inconsolata', ;
+  font-weight: 700;
+  color: #268bd2;
+  text-decoration: none;
+}
+
+.title a:hover {
+  font-family: 'Inconsolata', ;
+  font-weight: 700;
+  color: #d33682;
+}
+
+.rocket {
+  color: #657b83;
+}
+
+.navlinks {
+  font-family: 'Inconsolata', ;
+  font-weight: 400;
+}
+
+.navlinks a:link {
+  color: #268bd2;
+}
+
+.navlinks a:visited {
+  color: #268bd2;
+  text-decoration: none;
+}
+
+.navlinks a:hover {
+  color: #d33682;
+}
