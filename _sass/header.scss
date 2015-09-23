@@ -2,8 +2,11 @@
 	border-bottom-width:0.1em;
 	border-bottom-color:#9E9E9E;
 	border-bottom-style:solid;
+  border-top-width:0.5em;
+  border-top-color:#93a1a1;
+  border-top-style:solid;
 	box-shadow: 0px 2px 5px #888888;
-	background-color:#073642;
+	background-color:#073642;  
 }
 
 .title {
@@ -30,7 +33,7 @@
   color: #d33682;
 }
 
-.rocket {
+.gray-text {
   color: #657b83;
 }
 
@@ -51,4 +54,61 @@
 
 .navlinks a:hover {
   color: #d33682;
+}
+
+/* Blinking Cursor */
+.blinking-cursor {
+  font-family: 'Inconsolata', ;
+  font-weight: 400;
+  color: #2E3D48;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
 }
