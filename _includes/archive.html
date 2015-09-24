@@ -8,8 +8,8 @@
 	    {% for post in site.posts %}
 			{% assign thisyear = post.date | date: "%B %Y" %}
 			{% assign prevyear = post.previous.date | date: "%B %Y" %}
-			{% if thisyear != prevyear %}
-				<li class="archive-list"><a href="/archives/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m"}}/">{{ thisyear }}</a></li>
+			{% if prevyear != thisyear %}
+				<li class="archive-list flex-container"><a href="/archives/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m"}}/">{{ thisyear }}</a></li>
 			{% endif %}
 		{% endfor %}
 	  </div>
