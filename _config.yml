@@ -17,6 +17,8 @@ pages_list:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+sass:
+    style: compressed
 
 # Markdown Processor
 kramdown: 
