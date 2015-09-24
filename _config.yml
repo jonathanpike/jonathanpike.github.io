@@ -34,3 +34,6 @@ jekyll-archives:
   layout: archives-month
   permalinks:
     month: '/archives/:year/:month/'
+    
+# Exclusions
+exclude: ['Gemfile', 'Gemfile.lock', 'config.ru', 'vendor', 'Rakefile', 'Procfile']
