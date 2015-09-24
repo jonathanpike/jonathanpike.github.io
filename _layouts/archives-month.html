@@ -2,14 +2,15 @@
 layout: default
 ---
 <div class="col-xs-9 center">
-	<h1 class="post-title">Archive of posts from {{ page.date | date: "%B %Y" }}</h1>
+	<h1 class="post-title">Archive of {{ page.date | date: "%B %Y" }}</h1>
   <ul id="post-list">
     {% for post in page.posts %}
       <li>
         <h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}</a></h1>
         <p class="date">{{ post.date | date:"%B %d, %Y" }}</p>
-        <article class="post-content">{{ post.excerpt | markdownify }}</article>
+        <article class="post-content">{{ post.excerpt | markdownify }} <a href"{{ site.baseurl }}{{ post.url | remove_first: '/' }}">Read More =></a></article>
       </li>
+      <h1 class="post-divider text-center">#</h1>
     {% endfor %}
   </ul>
 </div>
