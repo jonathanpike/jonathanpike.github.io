@@ -9,6 +9,11 @@ github_username:  jonathanpike
 paginate: 5
 timezone: America/Toronto
 
+# Pages
+pages_list:
+  About: '/about'
+  Credits: '/credits'
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -18,3 +23,16 @@ permalinks: pretty
 kramdown: 
   input: GFM
   syntax_highlighter: rouge
+
+gems:
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - year
+    - month
+  layout: archives-month
+  permalinks:
+    year: '/archives/:year/'
+    month: '/archives/:year/:month/'
