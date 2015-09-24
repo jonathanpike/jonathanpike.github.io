@@ -18,6 +18,11 @@
   color: #93a1a1;
 }
 
+.post-content {
+  color: #657b83;
+  font-size: 1.2em;
+}
+
 #post-list {
   list-style-type: none;
 }
@@ -31,6 +36,14 @@
 }
 
 .post-divider {
-	color: #93a1a1;
+	color: #DAE0E0;
 	font-size: 25px;
+	font-family: 'Inconsolata', ;
+	padding-right: 40px;
+}
+
+.paginate {
+  //padding-left: 40px;
+  font-size: 25px;
+	font-family: 'Inconsolata', ;
 }

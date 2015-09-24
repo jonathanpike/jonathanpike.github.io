@@ -9,13 +9,11 @@
 @import "footer";
 @import "posts";
 
+// Formatting
+
 body {
   background-color:#fdf6e3;
   font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
-}
-
-.post-content {
-  color: #657b83;
 }
 
 .center {
@@ -34,5 +32,5 @@ body {
 }
 
 .flex-container {
-  flex-wrap: wrap;
+    flex-wrap: wrap;
 }

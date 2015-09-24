@@ -1,12 +1,12 @@
 # Site settings
-title: Personal Development
+title: jonathanpike.net
+description: Personal Development
 email: jonathan.d.s.pike@gmail.com
 author: Jonathan Pike
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "jonathanpike.net" # the base hostname & protocol for your site
-twitter_username: jonathanpike
-github_username:  jonathanpike
+baseurl: "" 
+url: "jonathanpike.net" 
 paginate: 5
+paginate_path: "/page/:num"
 timezone: America/Toronto
 
 # Pages
@@ -17,13 +17,13 @@ pages_list:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalinks: pretty
 
 # Markdown Processor
 kramdown: 
   input: GFM
   syntax_highlighter: rouge
 
+# Gems
 gems:
   - jekyll-archives
 
