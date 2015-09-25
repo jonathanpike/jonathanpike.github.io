@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
+<img class="img-responsive" src="/assets/jonathan.jpg">
 
 I'm Jonathan Pike, a full-stack web developer (specializing in [Ruby on Rails](http://rubyonrails.org/)) in Mississauga, Ontario.  I think that code can make the world a better place. 
 
