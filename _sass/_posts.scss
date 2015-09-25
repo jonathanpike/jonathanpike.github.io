@@ -47,3 +47,25 @@
   font-size: 25px;
 	font-family: 'Inconsolata', ;
 }
+
+/* Small iPhone  */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  .post-title {  
+    font-size: 1.5em;
+  }
+
+  .post-content {
+    font-size: .9em;
+  }
+
+  .panel-title {
+    font-size: .9em;
+  }
+
+  .panel-body {
+    font-size: .9em;
+  }
+}
