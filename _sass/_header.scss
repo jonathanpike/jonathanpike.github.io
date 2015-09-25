@@ -12,7 +12,8 @@
 .title {
   font-family: 'Inconsolata', ;
   color: #2AA198;
-}
+  font-size: 2.6em;
+  }
 
 .title a:link {
   font-family: 'Inconsolata', ;
@@ -110,5 +111,15 @@
   }
   50% {
     color: white;
+  }
+}
+
+/* Small iPhone  */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  .title {  
+  font-size: 1.5em;
   }
 }

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="col-xs-9 center">
+<div class="col-xs-12 col-md-9 center">
   <ul id="post-list">
     {% for post in paginator.posts %}
       <li>
@@ -13,7 +13,7 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-<div class="col-xs-9 center">
+<div class="col-xs-12 col-md-9 center">
   {% if paginator.total_pages > 1 %}
   <div class="paginate text-center">
     {% if paginator.previous_page %}
