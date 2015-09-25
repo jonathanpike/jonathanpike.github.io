@@ -12,7 +12,7 @@ I started this site to talk about my experience in the [Firehose Project](http:/
 
 ### Theme
 
-The theme, _Personal Development_, was lovingly crafted by me.  If you want to view the source, please [view it on GitHub](https://github.com/jonathanpike/jonathanpike.net).
+The theme, _Personal Development_, was lovingly crafted by me.  If you want to view the source, please [view it on GitHub](https://github.com/jonathanpike/jonathanpike.github.io).
 
 ### On the Internet
 
