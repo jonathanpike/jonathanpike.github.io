@@ -16,14 +16,14 @@ pages_list:
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+# highlighter: rouge
 sass:
     style: compressed
 
 # Markdown Processor
 kramdown: 
   input: GFM
-  syntax_highlighter: rouge
+  # syntax_highlighter: rouge
 
 # Gems
 gems:
@@ -36,6 +36,6 @@ jekyll-archives:
   layout: archives-month
   permalinks:
     month: '/archives/:year/:month/'
-    
+
 # Exclusions
 exclude: ['Gemfile', 'Gemfile.lock', 'config.ru', 'vendor', 'Rakefile', 'Procfile']
