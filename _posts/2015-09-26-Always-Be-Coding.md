@@ -4,7 +4,7 @@ title:  "The ABCs of Programming"
 date:   2015-09-26
 ---
 
-One of my favourite shows is the Office (US). Last week, Holly and I watched the episode where Dwight executed a "fire drill" and Stanley had a heart attack. Scared by his inability to help, Michael hired a first aid instructor to give a presentation. The first aid instructor began her presentation by asking if anyone knew the first aid "ABCs" (Airway, Breathing, Circulation).  Indignant, Michael replied that he couldn't remember the first aid ABCs because the ABCs of sales are "Always Be Closing". You'll want to see what happeneds next: 
+One of my favourite shows is the Office (US). Last week, Holly and I watched the episode where Dwight executed a "fire drill" and Stanley had a heart attack. Scared by his inability to help, Michael hired a first aid instructor to give a presentation. The first aid instructor began her presentation by asking if anyone knew the first aid "ABCs" (Airway, Breathing, Circulation).  Indignant, Michael replied that he couldn't remember the first aid ABCs because the ABCs of sales are "Always Be Closing". You'll want to see what happens next: 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Vmb1tqYqyII" frameborder="0" allowfullscreen></iframe>{: .center-image}
 
