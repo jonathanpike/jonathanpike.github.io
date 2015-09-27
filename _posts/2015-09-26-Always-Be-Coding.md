@@ -6,7 +6,7 @@ date:   2015-09-26
 
 One of my favourite shows is the Office (US). Last week, Holly and I watched the episode where Dwight executed a "fire drill" and Stanley had a heart attack. Scared by his inability to help, Michael hired a first aid instructor to give a presentation. The first aid instructor began her presentation by asking if anyone knew the first aid "ABCs" (Airway, Breathing, Circulation).  Indignant, Michael replied that he couldn't remember the first aid ABCs because the ABCs of sales are "Always Be Closing". You'll want to see what happens next: 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Vmb1tqYqyII" frameborder="0" allowfullscreen></iframe>{: .center-image}
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Vmb1tqYqyII' frameborder='0' allowfullscreen></iframe></div>{: .center-image}
 
 The concept of "ABCs" got me thinking: what are the ABCs of programming? What immediately came to mind, and what I believe to be true is _Always Be Coding_. Daily practice has been one of the biggest drivers of my continuing progress. The process of thinking through challenges and developing the code that solves them takes all of the syntax I learned when I just started and pushes it to the front of my brain, making it more easily accessible in the future, which frees up brain power to actually solve the challenge. 
 
