@@ -9,7 +9,7 @@ An extremely detailed and well written article about exactly what the title says
 
 1. "Only make a decision when you have _at least_ three offers in hand." Don't put yourself in a position where you're desperate for any job that comes up.  Waiting until you have multiple offers can also allow for some negotiation of the offer. 
 
-2. Use a system, such as CRM software ([Highrise](www.highrisehq.com) is a good option -- it's free for up to 2 users and 250 contacts!), to organize leads and help you follow up as you progress in the application process. 
+2. Use a system, such as CRM software ([Highrise](http://www.highrisehq.com) is a good option -- it's free for up to 2 users and 250 contacts!), to organize leads and help you follow up as you progress in the application process. 
 
 3. Use rejection as an opportunity to learn how to improve your future applications.  
 
