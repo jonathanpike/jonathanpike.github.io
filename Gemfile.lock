@@ -139,6 +139,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-archives
+  jekyll-redirect-from
   kramdown
   puma
   rack-jekyll

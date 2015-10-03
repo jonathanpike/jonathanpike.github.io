@@ -28,14 +28,10 @@ kramdown:
 # Gems
 gems:
   - jekyll-archives
+  - jekyll-redirect-from
 
 # Archives
-jekyll-archives:
-  enabled:
-    - month
-  layout: archives-month
-  permalinks:
-    month: '/archives/:year/:month/'
+permalinks: '/:year/:month/:title'
 
 # Exclusions
 exclude: ['Gemfile', 'Gemfile.lock', 'config.ru', 'vendor', 'Rakefile', 'Procfile']
