@@ -4,7 +4,6 @@ description: Personal Development
 email: jonathan.d.s.pike@gmail.com
 author: Jonathan Pike
 baseurl: "" 
-url: "jonathanpike.net" 
 paginate: 5
 paginate_path: "/page/:num"
 timezone: America/Toronto
