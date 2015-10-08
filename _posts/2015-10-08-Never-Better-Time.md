@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "There Has Never Been a Better Time to Be a Developer"
-date:   2015-10-08
+date:   2015-10-08 19:29:36
 ---
 
 Amidst the roiling debate of whether [FogBugz lost to JIRA](https://news.ycombinator.com/item?id=10313489), one thing has become really clear to me: there has never been a better time to be a developer.  Me of a few months ago would recoil and ask _"but aren't all the good, easy, profitable ideas already taken, just like every good domain name/username/gmail address/etc. is taken?"_ That's where I believe was wrong.  
