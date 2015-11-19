@@ -4,7 +4,7 @@ title:  "There Has Never Been a Better Time to Be a Developer"
 date:   2015-10-08 19:29:36
 ---
 
-Amidst the roiling debate of whether [FogBugz lost to JIRA](https://news.ycombinator.com/item?id=10313489), one thing has become really clear to me: there has never been a better time to be a developer.  Me of a few months ago would recoil and ask _"but aren't all the good, easy, profitable ideas already taken, just like every good domain name/username/gmail address/etc. is taken?"_ That's where I believe was wrong.  
+Amidst the roiling debate of whether [FogBugz lost to JIRA](https://news.ycombinator.com/item?id=10313489), one thing has become really clear to me: there has never been a better time to be a developer.  Me of a few months ago would recoil and ask _"but aren't all the good, easy, profitable ideas already taken, just like every good domain name/username/gmail address/etc. is taken?"_ That's where I believe I was wrong.  
 
 While I don’t have the perspective of developing software for years, [Joel Spolsky](http://www.joelonsoftware.com/AboutMe.html), author of the popular programmer blog, [Joel on Software](http://www.joelonsoftware.com/), and CEO of [Fog Creek](https://www.fogcreek.com/) (the makers of FogBugz), gave a history of the company on that [Hacker News thread](https://news.ycombinator.com/item?id=10313489) that served to change my mind dramatically.  Here’s a quote: 
 
