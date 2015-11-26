@@ -1,6 +1,7 @@
+---
 layout: page
 title: Projects
 permalink: /projects/
 ---
 
-These are some of the projects that I am working on: 
+Visit [GitHub](https://github.com/jonathanpike) to see the most recent projects I'm working on.  

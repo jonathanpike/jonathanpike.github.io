@@ -6,25 +6,11 @@ permalink: /about/
 
 <img class="img-responsive" src="/assets/jonathan.jpg">
 
-I'm Jonathan Pike, a  web developer in Mississauga, Ontario.  I think that code can make the world a better place. 
+I'm Jonathan Pike, a software developer in Mississauga, Ontario. I seek to deeply understand the programming languages I learn, through both [practice](http://jonathanpike.net/2015/09/26/Always-Be-Coding.html) and [research](http://jonathanpike.net/2015/11/24/Smooth-Ruby-Operators.html). I love the web, open source software, and fixing that one stubborn bug that refuses to be fixed. 
 
-### Languages, Libraries, and Frameworks
+### Stacks on Stacks on Stacks
 
-Programming languages, libraries, and frameworks are the tools of my trade.  I learn more every day about my tools, mostly through [practice](http://jonathanpike.net/2015/09/26/Always-Be-Coding.html). 
-
-**Technologies that I have a working knowledge in:**
-
-- [Ruby](https://www.ruby-lang.org/en/)
-	- [Rails](http://rubyonrails.org)
-- HTML
-- [Sass](http://sass-lang.com) / CSS
-    - [Bootstrap](http://getbootstrap.com)
-
-**These are technologies that I use and am still learning:**
-
-- [Python](https://www.python.org)
-- [Javascript](https://www.javascript.com)
-	- [jQuery](https://jquery.com)
+I'm a [Sass-y](http://sass-lang.com), [joyful Rubist](https://www.ruby-lang.org/en/) who can speak [Javascript eloquently](https://www.javascript.com). My Ruby sometimes rides on [Rails](http://rubyonrails.org), although not always.  I wrestle with [Pythons](https://www.python.org), but I often lose. 
 
 ### Theme
 
@@ -35,5 +21,14 @@ The theme, _Personal Development_, was lovingly crafted by me.  If you want to v
 - Twitter - [jonathanpike](https://twitter.com/jonathanpike)
 - GitHub - [jonathanpike](https://github.com/jonathanpike)
 - LinkedIn - [pikejonathan](https://ca.linkedin.com/in/pikejonathan)
+
+### Credits
+
+Personal Development is brought to you in part by the following awesome tools: 
+
+- [Jekyll](http://jekyllrb.com/) -- Generates all of the pages you see
+- [Solarized](http://ethanschoonover.com/solarized) -- The basis for the colour scheme
+- [Bootstrap](http://getbootstrap.com/) -- An amazing CSS framework that makes everything beautiful
+- [GitHub](https://github.com/jonathanpike/jonathanpike.github.io) -- Jonathanpike.net is hosted with GitHub Pages
 
 <br />
