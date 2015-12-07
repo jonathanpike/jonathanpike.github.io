@@ -8,6 +8,8 @@
 	  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 	  
 	  <link rel="stylesheet" href="{{ "/css/resume.css" | prepend: site.baseurl }}">
+	  <script src="{{ "/assets/tether.min.js" | prepend: site.baseurl }}"></script>
+	  <script src="{{ "/assets/drop.min.js" | prepend: site.baseurl }} "></script>
 	  <script src="{{ "/assets/scroll.js" | prepend: site.baseurl }}"></script>
 	  <script src="{{ "/assets/dayofweek.js" | prepend: site.baseurl }}"></script>
 	</head>
@@ -37,7 +39,7 @@
 
 			<footer>  
     			<div class="col-xs-12 footer">
-       				<p class="text-center">Have a great rest of your <span id="day"></span>!</p>
+       				<p class="text-center">Have a great rest of your <span id="day">day</span>!</p>
     			</div>
 			</footer>
 		</div>

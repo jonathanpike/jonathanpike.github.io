@@ -8,7 +8,7 @@ permalink: /resume/
 
 <p></p>
 
-## Technical Skills
+## Technical Skills <span class="drop-target">*</span>
 
 <ul class="tech-skills">
 	<li class="skill best">HTML</li>
