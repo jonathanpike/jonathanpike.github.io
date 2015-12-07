@@ -9,21 +9,24 @@
 	  
 	  <link rel="stylesheet" href="{{ "/css/resume.css" | prepend: site.baseurl }}">
 	  <script src="{{ "/assets/scroll.js" | prepend: site.baseurl }}"></script>
+	  <script src="{{ "/assets/dayofweek.js" | prepend: site.baseurl }}"></script>
 	</head>
 
 
 	<body>
 		<div class="container">
 			<div class="col-xs-12 col-md-4 animated fadeInDown namebox" id="box">
-				<h1>Hi, I'm Jonathan Pike</h1>
+				<h1>Hi, I'm <span id="name">Jonathan Pike</span> 👋</h1>
 				<p>I'm a software developer in Mississauga, Ontario.</p>
-				<p>Telephone: <a href="tel:647 401 3564">647 401 3564</a></p>
-				<p>E-mail: <a href="mailto:jonathan.d.s.pike@gmail.com">jonathan.d.s.pike@gmail.com</a></p>
+				<p>📞: <a href="tel:647 401 3564">647 401 3564</a></p>
+				<p>📧: <a href="mailto:jonathan.d.s.pike@gmail.com">jonathan.d.s.pike@gmail.com</a></p>
 				<hr />
-				<ul>
-					<li><a href="http://www.github.com/jonathanpike">GitHub</a></li>
-					<li><a href="https://ca.linkedin.com/in/pikejonathan">LinkedIn</a></li>
-				</ul>
+				<div class="text-center">
+					<ul class="social">
+						<li><a href="http://www.github.com/jonathanpike"><img src="{{ "/assets/GitHub_Logo.png" | prepend: site.baseurl }}" alt="GitHub"></a></li>
+						<li><a href="https://ca.linkedin.com/in/pikejonathan"><img src="{{ "/assets/LinkedIn_Logo.png" | prepend: site.baseurl }}" alt="LinkedIn"></a></li>
+					</ul>
+				</div>
 			</div>
 
 			<div class="col-xs-12 col-md-8">
@@ -31,8 +34,15 @@
 					{{ content }}
 				</div>
 			</div>
+
+			<footer>  
+    			<div class="col-xs-12 footer">
+       				<p class="text-center">Have a great rest of your <span id="day"></span>!</p>
+    			</div>
+			</footer>
 		</div>
 	</body>
 
 
 </html>
+
