@@ -6,9 +6,9 @@ permalink: /resume/
 
 ## Summary
 
-<p></p>
+If we meet in an elevator and you asked why I'm a software developer, I would say, _"I'm a software developer because coding excites me.  I believe that code can change the world for the better."_ My love for code drives me to learn more about the languages and technologies that I have familiarity with and leaves me excited for oportunities to learn new things. 
 
-## Technical Skills <span class="drop-target">*</span>
+## Technical Skills <span class="drop-target legend">***</span>
 
 <ul class="tech-skills">
 	<li class="skill best">HTML</li>
@@ -22,11 +22,15 @@ permalink: /resume/
 	<li class="skill better">Vagrant</li>
 	<li class="skill better">MVC</li>
 	<li class="skill good">Postgresql</li>
+	<li class="skill better">Agile</li>
+	<li class="skill best">Slack</li>
+	<li class="skill best">Trello</li>
+	<li class="skill better">TDD</li>
 </ul>
 
 ## Experience
 <div>
-	<h4>Remote Junior Web Developer <span class="pull-right">Nov - Dec 2015</span></h4>
+	<h4><strong>Remote Junior Web Developer</strong> <span class="pull-right">Nov - Dec 2015</span></h4>
 	<p>The Firehose Project</p>
 
 	<p>Worked on a remote team of 5 developers to build a Ruby on Rails chess web application that enforces the rules of chess (e.g. users cannot move themselves into checkmate, support for castling and en passant, etc.). <a href="https://github.com/teamendgame/endgame-chess">View the GitHub repository.</a></p>
@@ -50,7 +54,7 @@ permalink: /resume/
 	</ul>
 </div>
 <div> 
-	<h4>Wills and Estates Law Clerk <span class="pull-right">Nov 2011 - Present</span></h4>
+	<h4><strong>Wills and Estates Law Clerk</strong> <span class="pull-right">Nov 2011 - Present</span></h4>
 	<p>Sanguinetti + associates (formerly Wright & Associates)</p>
 
 	<p></p>
@@ -61,13 +65,12 @@ permalink: /resume/
 		<li>Drafts and proofreads Wills and Powers of Attorney of varying complexity unsupervised and with minimal instruction.</li>
 		<li>Displays close attention to detail preparing a variety of Court documents during the entire Estate Administration process.</li>
 		<li>Practices effective time management and multitasking to guarantee timely completion of work, meeting deadlines and maintaining high quality of work.</li>
-		<li>Volunteers occasional in-office computer and network-related troubleshooting.</li>
 	</ul>
 </div>
 
 ## Education and Professional Development
 <div>
-	<h4>The Firehose Project <span class="pull-right">Sept - Dec 2015</span></h4>
+	<h4><strong>The Firehose Project</strong> <span class="pull-right">Sept - Dec 2015</span></h4>
 	<p>In an intensive 15 week program, I learned how to become a capable software developer who is able to break complex problems into more manageable problems. I also learned the following tools of the trade:</p>
 	<ul>
 		<li>Learned how to build-out basic CRUD Rails apps following standard Rails conventions (without using scaffolding), involving mailers, validations, image uploading on AWS S3 and nested RESTful routes.</li>	
@@ -83,16 +86,16 @@ permalink: /resume/
 	</ul>
 </div>	
 <div>
-	<h4>CompTIA A+ Certified <span class="pull-right">2014</span></h4>
+	<h4><strong>CompTIA A+ Certified</strong> <span class="pull-right">2014</span></h4>
 	Certification valid until December 13, 2017
 </div>
 <div>
-	<h4>Honours Bachelor of Arts with Distinction <span class="pull-right">2006-2010</span></h4>
+	<h4><strong>Honours Bachelor of Arts with Distinction</strong> <span class="pull-right">2006-2010</span></h4>
 	<p>University of Toronto</p>
 	<p>Double Major: Political Science and Management </p>
 	<p>GPA: 3.30</p>
 </div>
 <div>
-	<h4>Mathematical and Computational Sciences Honour Roll <span class="pull-right">2009 - 2010 </span></h4>
+	<h4><strong>Mathematical and Computational Sciences Honour Roll</strong> <span class="pull-right">2009 - 2010 </span></h4>
 	<p>University of Toronto</p>
 </div>

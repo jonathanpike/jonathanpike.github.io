@@ -33,7 +33,7 @@ window.onload = function() {
 
 	var drop = new Drop({
   		target: document.querySelector('.drop-target'),
-  		content: '<span class="good">Good</span> <span class="better">Better</span> <span class="best">Best</span>',
+  		content: 'Everyday Comfort: <br/><span class="good">Good</span> <span class="better">Better</span> <span class="best">Best</span>',
   		position: 'right middle',
   		classes: 'drop-theme-arrows-bounce',
   		openOn: 'click'
