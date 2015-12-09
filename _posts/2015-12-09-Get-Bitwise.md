@@ -51,7 +51,7 @@ b.to_s(2)
 # => “10000”
 {% endhighlight %}
 
-Since the only column that `a` and `b` had in common with a 1 was the sixteens column, that is the only column that returned `1`. 
+Since the only column that `a` and `b` had in common was the sixteens column, that is the only column that returned `1`. 
 
 **OR**
 
