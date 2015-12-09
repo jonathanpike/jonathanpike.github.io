@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Get (Bit)Wise"
-date:   2015-12-09 6:25:00
+date:   2015-12-09 11:25:00
 ---
 
 [Previously on jonathanpike.net](http://jonathanpike.net/2015/11/24/Smooth-Ruby-Operators.html), I gave a run-down of most of the operators in Ruby, with the promise that I would cover certain omissions.  The day has come, my friends, to address… bitwise operators!  
