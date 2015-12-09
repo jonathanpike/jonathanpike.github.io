@@ -1,14 +1,13 @@
 ---
 ---
-
 // Imports
 @import "bootstrap";
 @import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
 @import "header";
-@import "syntax";
 @import "footer";
 @import "posts";
 @import "archive";
+@import "syntax-highlighting";
 
 // Formatting
 
@@ -31,4 +30,3 @@ body {
     margin: 0 auto;
     display: block;
 }
-
