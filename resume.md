@@ -64,7 +64,7 @@ If we meet in an elevator and you asked why I'm a software developer, I would sa
 		<li>Communicates with clients in a professionally friendly manner on a day to day basis in person and over the phone, ensuring customer satisfaction.</li>
 		<li>Drafts and proofreads Wills and Powers of Attorney of varying complexity unsupervised and with minimal instruction.</li>
 		<li>Displays close attention to detail preparing a variety of Court documents during the entire Estate Administration process.</li>
-		<li>Practices effective time management and multitasking to guarantee timely completion of work, meeting deadlines and maintaining high quality of work.</li>
+		<li>Practices effective time management and multitasking to guarantee timely completion of work, meeting deadlines and maintaining high quality of work.</li>	
 	</ul>
 </div>
 
