@@ -82,7 +82,7 @@ The `~` operator does exactly what you think it does: it  flips all of the bits 
   
 What’s going on here?  Shouldn’t it be `01010`? The answer comes from how binary numbers handle negatives, and how the `Integer#to_s` method deals with negative binary numbers. 
 
-Binary numbers don’t natively have a negative sign to deal with negative numbers.  Instead, they are represented through a method called [two’s compliment](https://en.wikipedia.org/wiki/Two%27s_complement).  A really great explanation of how it works can be seen [here](https://www.youtube.com/watch?v=ZLA0Ahymiv8).  In a nutshell, to convert to two’s complement notation, the leftmost bit becomes the sign value (which reduces the range that your binary number represents), all of the bits are flipped (with the bitwise NOT), and you add 1.  
+Binary numbers don’t natively have a negative sign to deal with negative numbers.  Instead, they are represented through a method called [two’s compliment](https://en.wikipedia.org/wiki/Two%27s_complement).  A really great explanation of how it works can be seen [here](https://www.youtube.com/watch?v=ZLA0Ahymiv8)[^1].  In a nutshell, to convert to two’s complement notation, the leftmost bit becomes the sign value (which reduces the range that your binary number represents), all of the bits are flipped (with the bitwise NOT), and you add 1.  
 
 Secondly, the `Integer#to_s` method does not actually return a true representation of binary numbers when dealing with negatives.  Instead, it returns a representation of the number prepended with a negative sign.  In this example: 
 
@@ -125,3 +125,7 @@ Calle Erlandsson [wrote an article](http://www.calleerlandsson.com/2015/02/16/fl
 **Credits**
 
 I owe a deep debt of gratitude to Calle Erlandsson’s article, [Ruby’s Bitwise Operators](http://www.calleerlandsson.com/2014/02/06/rubys-bitwise-operators/).  The content in this article has its foundation in the understanding that I got from his explanations.  
+
+<hr />
+
+[^1]: [Hiromi K](http://hkawanishi.github.io) pointed out this [additional article on Two's Compliment](http://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html) that may be helpful. 
