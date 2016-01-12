@@ -8,10 +8,6 @@ permalink: /about/
 
 I'm Jonathan Pike, a software developer in Mississauga, Ontario. I seek to deeply understand the programming languages I learn, through both [practice](http://jonathanpike.net/2015/09/26/Always-Be-Coding.html) and [research](http://jonathanpike.net/2015/11/24/Smooth-Ruby-Operators.html). I love the web, open source software, and fixing that one stubborn bug that refuses to be fixed. 
 
-### Stacks on Stacks on Stacks
-
-I'm a [Sass-y](http://sass-lang.com), [joyful Rubist](https://www.ruby-lang.org/en/) who can speak [Javascript eloquently](https://www.javascript.com). My Ruby sometimes rides on [Rails](http://rubyonrails.org), although not always.  I wrestle with [Pythons](https://www.python.org), but I often lose. 
-
 ### Theme
 
 The theme, _Personal Development_, was lovingly crafted by me.  If you want to view the source, please [view it on GitHub](https://github.com/jonathanpike/jonathanpike.github.io).
