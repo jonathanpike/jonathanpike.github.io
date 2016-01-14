@@ -8,10 +8,7 @@
 	  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 	  
 	  <link rel="stylesheet" href="{{ "/css/resume.css" | prepend: site.baseurl }}">
-	  <script src="{{ "/assets/js/tether.min.js" | prepend: site.baseurl }}"></script>
-	  <script src="{{ "/assets/js/drop.min.js" | prepend: site.baseurl }} "></script>
-	  <script src="{{ "/assets/js/dayofweek.js" | prepend: site.baseurl }}"></script>
-	  <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>	  
+	  <script src="{{ "/assets/js/main.min.js" | prepend: site.baseurl }}"></script>	  
 	</head>
 
 
@@ -32,10 +29,8 @@
 				</div>
 			</div>
 
-			<div class="col-xs-12 col-md-8">
-				<div class="col-xs-12 contentbox">
-					{{ content }}
-				</div>
+			<div class="col-xs-12 col-md-8 contentbox">
+				{{ content }}
 			</div>
 
 			<hr class="rule" />

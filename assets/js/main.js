@@ -30,12 +30,4 @@ window.onload = function() {
 	};
 	
 	document.getElementById("day").innerHTML = dayOfWeek();
-
-	var drop = new Drop({
-  		target: document.querySelector('.drop-target'),
-  		content: 'Everyday Comfort: <br/><span class="good">Good</span> <span class="better">Better</span> <span class="best">Best</span>',
-  		position: 'right middle',
-  		classes: 'drop-theme-arrows-bounce',
-  		openOn: 'click'
-  	});
 };
