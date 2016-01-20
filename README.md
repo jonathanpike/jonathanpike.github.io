@@ -9,7 +9,7 @@ This is my personal blog.  A few notes:
 
 ## Theme
 
-I lovingly hand coded the theme, which I call "Personal Development".  The colour scheme is based on [Solarized](http://ethanschoonover.com/solarized), which makes everything look amazing.  
+I lovingly hand coded the theme, which I call "Personal Development". 
 
 The styling is all done with Sass (at a very basic level), so you will need to use Jekyll 2.x and above.  
 

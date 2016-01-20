@@ -8,29 +8,40 @@ paginate: 5
 paginate_path: "/page/:num"
 timezone: America/Toronto
 
+# SEO
+twitter:
+  username: jonathanpike
+social:
+  links: ['https://ca.linkedin.com/in/pikejonathan', 'https://twitter.com/jonathanpike', 'https://github.com/jonathanpike']
+
+
 # Pages
 pages_list:
   About: '/about/'
-  Credits: '/credits/'
+  Archive: '/archive/'
+  Resume: '/resume/'
+  Projects: '/projects/'
 
 # Build settings
 markdown: kramdown
-# highlighter: rouge
 sass:
     style: compressed
 
 # Markdown Processor
 kramdown: 
   input: GFM
-  # syntax_highlighter: rouge
 
 # Gems
 gems:
   - jekyll-archives
   - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-seo-tag
 
 # Archives
 permalinks: '/:year/:month/:title'
 
 # Exclusions
-exclude: ['Gemfile', 'Gemfile.lock', 'config.ru', 'vendor', 'Rakefile', 'Procfile']
+exclude: ['Gemfile', 'Gemfile.lock', 'vendor', 'Rakefile']
