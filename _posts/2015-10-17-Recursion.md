@@ -6,7 +6,28 @@ date:   2015-10-17 11:50:00
 
 Recursion is a topic that has greatly confused me since I learned about it.  After all, the joke goes _"in order to understand recursion, you must understand recursion"_.  I knew that, stated simply, recursion is calling a method from within itself, but I had no idea how to implement a recursive method or how a recursive method worked.  That all had to change when I was required to write a recursive function to return the fibonacci number given an index for one of the job prep challenges in the [Firehose](http://www.thefirehoseproject.com) curriculum.  Here is the code I came up with: 
 
-<script src="https://gist.github.com/jonathanpike/3a7465fcb54ad7fef8b7.js"></script>
+```
+def recursive_fib(num)
+    if num <= 1
+        return num
+    else
+        answer = recursive_fib(num - 2) + recursive_fib(num - 1)
+    end
+    
+    return answer.abs
+end
+
+def iterative_fib(num)
+    fib = [0, 1]
+    
+    (num - 1).times do 
+        nextnum = fib[-2] + fib[-1]
+        fib << nextnum
+    end
+    
+    fib.last
+end
+```
 
 Having begun learning programming seriously with [Python](http://learnpythonthehardway.org) (an object-oriented language), my mind seems to work naturally in loops.  As such, the iterative solution was much easier to conceptualize (ie. initialize an array for the fibonacci numbers, create a loop that executes n - 1 times to fill out the array, and then return the last value) and much easier to write.  
 
