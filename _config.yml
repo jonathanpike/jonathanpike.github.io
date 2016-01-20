@@ -3,6 +3,7 @@ title: Personal Development
 description: by Jonathan Pike
 email: jonathan.d.s.pike@gmail.com
 author: Jonathan Pike
+url: "http://www.jonathanpike.net"
 baseurl: "" 
 paginate: 5
 paginate_path: "/page/:num"
