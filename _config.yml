@@ -37,7 +37,6 @@ gems:
   - jekyll-archives
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-mentions
   - jemoji
   - jekyll-seo-tag
 
