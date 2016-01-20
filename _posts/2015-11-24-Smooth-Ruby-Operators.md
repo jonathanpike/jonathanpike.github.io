@@ -37,7 +37,7 @@ Unary operators perform a function on a single operand.  In my experience, unary
 
 	Confusingly enough, the unary ampersand will also go the other way, converting blocks to procs so that you can store them in a variable and then `.call` them later, like so: 
 
-	```
+	{% highlight ruby %}
 	class Sample
   		def initialize(&block)
     		@block = block
@@ -47,7 +47,7 @@ Unary operators perform a function on a single operand.  In my experience, unary
     		@block.call
   		end
 	end
-	```
+	{% endhighlight %}
 
 	Finally, `&` has one last trick up its sleeve. If you pass an object that is not a proc to a method that expects a block, it will also convert it from whatever it is to a proc, and then to a block for the method.  This is insanity!  It is also how amazing useful method chains like the following work: 
 
