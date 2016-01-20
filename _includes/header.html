@@ -1,17 +1,15 @@
 <header>
 
-  <div class="container-fluid site-header">
-    <div class="col-xs-12 center-block">
-      <h1 class="title text-center"><span class="gray-text">:</span><a href="{{ site.baseurl }}/">{{ site.title }}</a> <span class="gray-text">=></span> {{ site.description }}<span class="blinking-cursor">|</span></h1>
-    </div>
-    <div class="col-xs-12 center-block">
-        <ul class="list-inline text-center navlinks">
-          <li><h4><span class="gray-text">Navigation = </span></h4></li>
-          <li><h4><span class="gray-text">[</span><a href="/about/">About</a><span class="gray-text">,</span></h4></li>
-          <li><h4><a href="/projects/">Projects</a><span class="gray-text">,</span><h4></li>
-          <li><h4><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a><span class="gray-text">]</span><h4></li>
-        </ul>
-    </div>
+  <div class="col-xs-12 col-md-4 animated fadeInDown namebox" id="box">
+    <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <p>{{ site.description }}</p>
+    <hr />
+    <ul class="navigation">
+      <li><h4><a href="/about/">About</a><span class="gray-text"></h4></li>
+      <li><h4><a href="/archive/">Archive</a><span class="gray-text"></h4></li>
+      <li><h4><a href="/projects/">Projects</a><span class="gray-text"><h4></li>
+      <li><h4><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></h4></li>
+   </ul>
   </div>
 
 </header>

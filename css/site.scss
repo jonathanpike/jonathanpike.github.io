@@ -3,18 +3,11 @@
 // Imports
 @import "bootstrap";
 @import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
-@import "header";
-@import "footer";
-@import "posts";
-@import "archive";
+@import "animate";
+@import "layout";
 @import "syntax-highlighting";
 
 // Formatting
-
-body {
-  background-color:#fdf6e3;
-  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
-}
 
 .center {
   float: none;
