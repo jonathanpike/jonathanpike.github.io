@@ -12,20 +12,6 @@ body {
   }
 }
 
-.title a:link {
-  color: #69C5FF;
-  border-bottom: 0px;
-}
-
-.title a:visited {
-  color: #69C5FF;
-  text-decoration: none;
-}
-
-.title a:hover {
-  color: #d33682;
-}
-
 a:link {
   border-bottom: 1px black dotted;
   text-decoration: none;
@@ -38,83 +24,4 @@ a:hover{
 a:visited {
   color: #337ab7;
   text-decoration: none;
-}
-
-.namebox {
-  margin-top: 20px;
-  border-radius: 2px;
-  border: 2px solid rgba(125, 222, 255, 0.5);
-}
-
-.contentbox {
-  margin-bottom: 20px;
-  padding: 0px 30px 0px 30px;
-  @media only screen and (max-width: 500px) {
-    padding: 0px;
-  }
-}
-
-#post-list {
-  padding: 0px;
-}
-
-.post {
-  margin: 0px 0px 60px 0px;
-}
-
-.meta {
-  color: #777;
-}
-
-.navigation {
-  list-style: none;
-  padding: 0px;
-}
-
-code {
-  background-color:#fdf6e3;
-  font-family: 'Inconsolata', ;
-  font-size: 1.1em;
-}
-
-.flex-container {
-  display: flex;
-  justify-content: flex-start;
-}
-
-.flex-child {
-  width: 200px;
-}
-
-.rule {
-  width: 30%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#post-list {
-  list-style-type: none;
-}
-
-.this {
-  list-style: none;
-  background-color: #fdf6e3;
-  border-radius: 5px;
-  padding: 10px;
-
-}
-
-.past {
-  list-style: none;
-  padding: 10px;
-}
-
-#archive ul li time {
-  padding-right: 10px;
-  font-family: 'Inconsolata', ;
-  font-size: 1.1em; 
-  &::after {
-    content: "•";
-    padding-left: 10px;
-  }
 }

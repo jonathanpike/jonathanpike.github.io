@@ -1,129 +1,24 @@
-.site-header {
-	border-bottom-width:0.1em;
-	border-bottom-color:#9E9E9E;
-	border-bottom-style:solid;
-  border-top-width:0.5em;
-  border-top-color:#93a1a1;
-  border-top-style:solid;
-	box-shadow: 0px 2px 5px #888888;
-	background-color:#073642;  
+.namebox {
+  margin-top: 20px;
+  border-radius: 2px;
+  border: 2px solid rgba(125, 222, 255, 0.5);
 }
 
-.title {
-  font-family: 'Inconsolata', ;
-  color: #2AA198;
-  font-size: 2.6em;
-  }
+.navigation {
+  list-style: none;
+  padding: 0px;
+}
 
 .title a:link {
-  font-family: 'Inconsolata', ;
-  font-weight: 700;
-  color: #268bd2;
+  color: #69C5FF;
+  border-bottom: 0px;
 }
 
 .title a:visited {
-  font-family: 'Inconsolata', ;
-  font-weight: 700;
-  color: #268bd2;
+  color: #69C5FF;
   text-decoration: none;
 }
 
 .title a:hover {
-  font-family: 'Inconsolata', ;
-  font-weight: 700;
   color: #d33682;
-}
-
-.gray-text {
-  color: #657b83;
-}
-
-.navlinks {
-  font-family: 'Inconsolata', ;
-  font-weight: 400;
-  color: #268bd2;
-}
-
-.navlinks a:link {
-  color: #268bd2;
-}
-
-.navlinks a:visited {
-  color: #268bd2;
-  text-decoration: none;
-}
-
-.navlinks a:hover {
-  color: #d33682;
-}
-
-/* Blinking Cursor */
-.blinking-cursor {
-  font-family: 'Inconsolata', ;
-  font-weight: 400;
-  color: #2E3D48;
-  -webkit-animation: 1s blink step-end infinite;
-  -moz-animation: 1s blink step-end infinite;
-  -ms-animation: 1s blink step-end infinite;
-  -o-animation: 1s blink step-end infinite;
-  animation: 1s blink step-end infinite;
-}
-
-@keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
-}
-
-@-moz-keyframes blink {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
-}
-
-@-webkit-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
-}
-
-@-ms-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
-}
-
-@-o-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: white;
-  }
-}
-
-/* Small iPhone  */
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2) {
-  .title {  
-    font-size: 1.5em;
-  }
-
-  h4 {
-    font-size: .9em;
-  }
 }

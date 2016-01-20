@@ -5,19 +5,13 @@
 @import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
 @import "animate";
 @import "layout";
+@import "header";
+@import "posts";
+@import "archive";
+@import "footer";
 @import "syntax-highlighting";
 
 // Formatting
-
-.center {
-  float: none;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.clear {
-  clear:both;
-}
 
 .center-image {
     margin: 0 auto;
