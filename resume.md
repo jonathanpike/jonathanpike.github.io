@@ -50,6 +50,7 @@ I'm a programmer by nature; programming excites the problem-solving part of my b
 			<ul class="tech-skills">
 				<li><a href="https://github.com/bbatsov/rubocop">Rubocop</a></li>
 				<li><a href="https://github.com/seattlerb/minitest">Minitest</a></li>
+				<li><a href="https://jquery.com/">jQuery</a></li>
 			</ul>
 		</div>
 	</div>
