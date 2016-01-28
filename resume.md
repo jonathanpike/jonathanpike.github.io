@@ -7,6 +7,8 @@ permalink: /resume/
 ## Summary
 I'm a programmer by nature; programming excites the problem-solving part of my brain.  	My process is to plan before I code, gathering information to determine the best approach, write tests to verify the solution, then solve the problem. Daily practice refines my current skills and solidifies new ones, and continuously learning new languages, frameworks, and design patterns makes me more efficient. I love the web and want to make it better by building great things. 
 
+<hr class="divider" />
+
 ## Experience
 <div>
 	<h4><strong>Remote Junior Web Developer</strong> <span class="pull-right">Nov - Dec 2015</span></h4>
@@ -69,6 +71,8 @@ I'm a programmer by nature; programming excites the problem-solving part of my b
 	</ul>
 </div>
 
+<hr class="divider" />
+ 
 ## Education and Professional Development
 <div>
 	<h4><strong>Programming Bootcamp</strong> <span class="pull-right">Sept - Dec 2015</span></h4>
@@ -104,6 +108,8 @@ I'm a programmer by nature; programming excites the problem-solving part of my b
 	<h4><strong>Mathematical and Computational Sciences Honour Roll</strong> <span class="pull-right">2009 - 2010 </span></h4>
 	<p><span class="highlight">University of Toronto</span></p>
 </div>
+
+<hr class="divider" />
 
 ## Technical Skills
 <div class="flex-container">
