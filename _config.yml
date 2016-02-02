@@ -39,6 +39,7 @@ gems:
   - jekyll-sitemap
   - jemoji
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Archives
 permalinks: '/:year/:month/:title'
