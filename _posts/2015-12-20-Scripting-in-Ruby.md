@@ -2,6 +2,7 @@
 layout: post
 title:  "Scripting in Ruby"
 date:   2015-12-20 09:55:20
+permalink: /2015/12/20/scripting-in-ruby.html
 ---
 
 Just over half a year ago, I tweeted the following: 

@@ -3,6 +3,7 @@ layout: post
 title:  "Why We Skip Photoshop"
 date:   2015-10-22 18:49:00
 link: https://signalvnoise.com/posts/1061-why-we-skip-photoshop
+permalink: /2015/10/22/skip-photoshop.html
 ---
 
 An old but good article from [Signal V. Noise](https://signalvnoise.com/), the blog from the [Basecamp](https://basecamp.com/) folks.  While Jason Fried singles out Photoshop, this clearly applies to the design tools that I’ve seen recommended a lot recently:  [Sketch 3](http://www.sketchapp.com/) and [Balsamiq](https://balsamiq.com/).  Both of these apps look really great at what they do and I’m sure there are lots of really fantastic uses for them. 

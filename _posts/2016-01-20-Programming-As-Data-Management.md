@@ -2,6 +2,7 @@
 layout: post
 title:  "Programming As Data Management"
 date:   2016-01-20 09:12:15
+permalink: /2016/01/20/programming-as-data-management.html
 ---
 
 As I’ve learned more about programming, I’ve gone through several distinct mental models about what I’m doing.  A rough timeline:

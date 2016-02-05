@@ -2,6 +2,7 @@
 layout: post
 title:  "Check Your Assumptions"
 date:   2015-10-01
+permalink: /2015/10/01/check-your-assumptions.html
 ---
 
 *This post details some of my experience in [the Firehose Project](http://thefirehoseproject.com).*

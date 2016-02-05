@@ -2,6 +2,7 @@
 layout: post
 title:  "A Beginner to TDD's Guide to TDD for Beginners"
 date:   2016-01-12 09:35:32
+permalink: /2016/01/12/beginners-guide-to-tdd.html
 ---
 
 Software testing is necessary, but software testing is hard for beginners.  

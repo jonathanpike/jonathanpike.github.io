@@ -2,6 +2,7 @@
 layout: post
 title:  "The ABCs of Programming"
 date:   2015-09-26
+permalink: /2015/09/26/always-be-coding.html
 ---
 
 One of my favourite shows is the Office (US). Last week, Holly and I watched the episode where Dwight executed a "fire drill" and Stanley had a heart attack. Scared by his inability to help, Michael hired a first aid instructor to give a presentation. The first aid instructor began her presentation by asking if anyone knew the first aid "ABCs" (Airway, Breathing, Circulation).  Indignant, Michael replied that he couldn't remember the first aid ABCs because the ABCs of sales are "Always Be Closing". You'll want to see what happens next: 

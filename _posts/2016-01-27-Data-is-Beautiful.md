@@ -2,6 +2,7 @@
 layout: post
 title:  "Data is Beautiful"
 date:   2016-01-27 09:58:40
+permalink: /2016/01/27/data-is-beautiful.html
 ---
 
 [Jer Thorp's](http://blog.blprnt.com/)[^1] talk at Chris Hadfield's Generator has been rattling around in my brain since the end of October.  He focused on the idea that *"data holds story"*; the data we collect and is automatically collected by our devices is not a series of random points but a log of our life.  Data has a human element, because each piece of data that we collect has meaning in the real world.  Data can be truly beautiful.  

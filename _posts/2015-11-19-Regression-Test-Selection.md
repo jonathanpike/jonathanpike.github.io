@@ -2,6 +2,7 @@
 layout: post
 title:  "Regression Test Selection"
 date:   2015-11-19 6:52:00
+permalink: /2015/11/19/regression-test-selection.html
 ---
 
 On Tuesday, I watched a [really great talk about Ruby and Rails performance](https://www.youtube.com/watch?v=JMGmaRZtgM8) by [Aaron 'Tenderlove' Patterson](http://tenderlovemaking.com), the famous Ruby and Rails contributor.  While there were many ideas and concepts in the talk that sparked my curiousity, the concept of regression test selection really stuck in my brain. What is it, and how does it work?
