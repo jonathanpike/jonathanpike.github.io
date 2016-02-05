@@ -2,7 +2,7 @@
 layout: post
 title:  "ActiveSupport::TestCase vs. Minitest: Explaining the Differences"
 date:   2016-02-03 10:57:14
-permalink: /2016/02/03/activesupport-vs-minitest.html
+permalink: /2016/02/03/ActiveSupport-vs-Minitest.html
 ---
 
 [Testing is important](http://jonathanpike.net/2016/01/12/Beginners-Guide-to-TDD.html), no matter what framework or methodology you use.  Once that is internalized, you need to make some practical decisions, such as _"What testing framework do I learn?"_ I learned how to test my Rails apps using [Minitest](https://github.com/seattlerb/minitest) because it's the Rails default. I continue using it because Minitest syntax is just Ruby instead of a complicated DSL, but that's another story. If you've ever used Rails' implementation of Minitest, you'll be familiar with tests looking like this: 

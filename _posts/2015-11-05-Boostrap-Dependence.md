@@ -2,7 +2,7 @@
 layout: post
 title:  "Bootstrap Dependence"
 date:   2015-11-05 4:30:00
-permalink: /2015/11/05/bootstrap-dependence.html
+permalink: /2015/11/05/Bootstrap-Dependence.html
 ---
 
 The following Tweet from [renowned front end developer, Noah Stokes](http://noahstokes.com/) really caught my eye the other day: 

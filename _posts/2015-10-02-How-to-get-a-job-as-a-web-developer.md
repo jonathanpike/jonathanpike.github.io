@@ -3,7 +3,7 @@ layout: post
 title:  "How to get a job as a web developer"
 date:   2015-10-02
 link: http://www.happybearsoftware.com/how-to-get-a-programmer-job.html
-permalink: /2015/10/02/how-to-get-a-job-as-a-web-developer.html
+permalink: /2015/10/02/How-to-get-a-job-as-a-web-developer.html
 ---
 
 An extremely detailed and well written article about exactly what the title says. My biggest take-aways: 

@@ -3,7 +3,7 @@ layout: post
 title:  "Embed Responsively"
 date:   2015-09-30
 link: 	http://embedresponsively.com
-permalink: /2015/09/30/embed-responsively.html
+permalink: /2015/09/30/Embed-Responsively.html
 ---
 
 When I posted [the ABCs of Programming](http://jonathanpike.net/2015/09/26/Always-Be-Coding.html) earlier this week, I embedded a video from YouTube. The video looked fine on my iMac, but when I looked at it on my iPhone, it was hideously oversized.  A quick google search lead to this fantastic utility. 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Smooth (Ruby) Operators"
 date:   2015-11-24 7:15:00
-permalink: /2015/11/24/smooth-ruby-operators.html
+permalink: /2015/11/24/Smooth-Ruby-Operators.html
 ---
 
 It will be no surprise to you that I do a lot of research.  One topic that has stood out to me in the research that I’ve done has been Ruby operators.  While I may have encountered the term in high school math, I’ve since forgotten it in the intervening years.  The more I read, the more of these operators I came across, some easy to understand and some inscrutable (at least at first). To make things more confusing, there are different categories of operators, too: unary, binary, and ternary.

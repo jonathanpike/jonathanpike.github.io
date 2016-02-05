@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, World"
 date:   2015-09-24
-permalink: /2015/09/24/hello-world.html
+permalink: /2015/09/24/Hello-World.html
 ---
 
 The first programming nearly everyone does is the simple "Hello, world" script. It's instant gratification at its best. Type something into a computer, the computer spits something out. _You're a programmer!_ 

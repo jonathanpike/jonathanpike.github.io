@@ -2,7 +2,7 @@
 layout: post
 title:  "Recursion"
 date:   2015-10-17 11:50:00
-permalink: /2015/10/17/recursion.html
+permalink: /2015/10/17/Recursion.html
 ---
 
 Recursion is a topic that has greatly confused me since I learned about it.  After all, the joke goes _"in order to understand recursion, you must understand recursion"_.  I knew that, stated simply, recursion is calling a method from within itself, but I had no idea how to implement a recursive method or how a recursive method worked.  That all had to change when I was required to write a recursive function to return the fibonacci number given an index for one of the job prep challenges in the [Firehose](http://www.thefirehoseproject.com) curriculum.  Here is the code I came up with: 
