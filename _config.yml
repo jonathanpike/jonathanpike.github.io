@@ -15,18 +15,10 @@ twitter:
 social:
   links: ['https://ca.linkedin.com/in/pikejonathan', 'https://twitter.com/jonathanpike', 'https://github.com/jonathanpike']
 
-
-# Pages
-pages_list:
-  About: '/about/'
-  Archive: '/archive/'
-  Resume: '/resume/'
-  Projects: '/projects/'
-
 # Build settings
 markdown: kramdown
 sass:
-    style: compressed
+  style: compressed
 
 # Markdown Processor
 kramdown: 
@@ -34,7 +26,6 @@ kramdown:
 
 # Gems
 gems:
-  - jekyll-archives
   - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
@@ -42,7 +33,7 @@ gems:
   - jekyll-paginate
 
 # Archives
-permalinks: '/:year/:month/:title'
+permalink: '/:year/:month/:title'
 
 # Exclusions
 exclude: ['Gemfile', 'Gemfile.lock', 'vendor', 'Rakefile']
