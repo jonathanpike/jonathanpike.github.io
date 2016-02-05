@@ -19,6 +19,19 @@
   color: #777;
 }
 
+.link-arrow {
+  @extend .meta;
+}
+
+.update { 
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid #bce8f1;
+  border-radius: 4px;
+  background-color: #d9edf7;
+  color: #31708f;
+}
+
 code {
   background-color:#fdf6e3;
   font-family: 'Inconsolata', ;

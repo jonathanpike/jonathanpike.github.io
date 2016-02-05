@@ -9,5 +9,5 @@ When I posted [the ABCs of Programming](http://jonathanpike.net/2015/09/26/Alway
 
 Just paste in the URL and it automatically generates responsive embed codes.  Works with YouTube, Vimeo, Google Maps, Instagram, Vine, and more. 
 
-{: .alert .alert-info}
+{: .update}
 **Update:** I just learned that [Bootstrap](http://getbootstrap.com/components/#responsive-embed) already includes responsive embed by default.
