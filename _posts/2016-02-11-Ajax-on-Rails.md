@@ -4,7 +4,7 @@ title:  "Ajax on Rails"
 date:   2016-02-11 01:54:30
 ---
 
-I built a [small To Do application](wc-todo.herokuapp.com) with Rails over the weekend with the goal of making it a single page application, using Ajax to handle all data updates and form submissions.  A simple To Do app shouldn't have multiple pages just to add or modify an item!
+I built a [small To Do application](http://wc-todo.herokuapp.com) with Rails over the weekend with the goal of making it a single page application, using Ajax to handle all data updates and form submissions.  A simple To Do app shouldn't have multiple pages just to add or modify an item!
 
 Having used [Ajax with jQuery](http://api.jquery.com/jquery.ajax/) before, I had some familiarity with sending a request to the server using Ajax.  When I ran into trouble, I looked to Stack Overflow, which provided advice in how to [stop the normal submit method](http://stackoverflow.com/questions/6723334/submit-form-in-rails-3-in-an-ajax-way-with-jquery).  After some further research, I found that while I could write the code to handle the Ajax request myself, I didn't need to.
 
