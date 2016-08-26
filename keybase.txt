@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jonathanpike
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jonathanpike.net
+  * I am jonathanpike (https://keybase.io/jonathanpike) on keybase.
+  * I have a public key with fingerprint 2F62 FA73 50D2 F10A 6D30  0137 7E8F 5585 F6B3 098B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019d77d09f039d3b30892988048b868a938125eb6b76264f285e353b73b4d997840a",
+            "fingerprint": "2f62fa7350d2f10a6d3001377e8f5585f6b3098b",
+            "host": "keybase.io",
+            "key_id": "7e8f5585f6b3098b",
+            "kid": "01019d77d09f039d3b30892988048b868a938125eb6b76264f285e353b73b4d997840a",
+            "uid": "f852a4a2b001194841a87e199317ee19",
+            "username": "jonathanpike"
+        },
+        "service": {
+            "hostname": "jonathanpike.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472226928,
+    "expire_in": 157680000,
+    "prev": "f24999ebb31e17d0301a45704fe0725169bb4487fe71afd65db05d122505d8fb",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJbSBVBGD4nM+vQxaAkoyS2ghOY7MzeZs5LkaFd6KIlZZnLjjt7XC+7
+pz3rUVMLsqv5YFJKkEVCkRBGQRk9iJ1OD5FID0EvoWWkkd0pMq1oVuqtx+blZ+b/
+/u//vo9JzEnyBfzfchaOPu05H/A/unexyrerz4jUccTWa7lQHVdOpwqt0GnUVctN
+nQtxPOAB1hVF57HBC1gXiMAjDDFCvIgIkpGGBQSgRIlMFBnKogGRRAVJIIpARB1j
+BYm8xmVyhmmFqRNxTMtltNCQoaEpgsTr0AC8JusCzwNBUSgyJAlJhsz2YETYYKkd
+9SaYOKJFaZZpszd2Uafk/QP/n3VXTdEZSIKaqEHCVAIsIhFoSKEAYwEolFUPGKWO
+pVVShi6zLc0t1ayIWU65hkyOdWJmCfXC9dz8A5VlUZdxRBzbtUvsCtYtdd1INORN
+u7URD15NifqHSCWmpbM82USMOlHTtrgQYMgS1/SYgahACGUMUSZHayKmQ1XTQ0iK
+jHh2vD005rmCIsaYEiIAClhUAg80UVJ40aC8AiUgY0JEESkGVYBm6LKkE17SAYQS
+K8jw0o7S/ZbNhUQmUwszyqgZZq6qHOY73lc03ecP+GYkT/P+mS8wK/Xv75tonOlr
+TptT9KluddPnDYfz21KvNoWMcz8rmrXLR2N9LSMrn5/pGiCnyi/mvNu6IOPW4J5n
+syf1Ta8zgsnVy94XPN/WcvB+Sm9zfeGa+mMJPdxfcz0vM/l0YcP3tkPX4sET/uwd
+6pH23A+tS7ckta0bPzumry4Znld8ZUAMx53qIXXt+8n0b4mR9jvdq74en2xPefOr
+I3Vxmm9ub3+pM3yy88WP7ZcSk+vnp7/a54+VfZzoaa10fJeMwcHHX5aDGxvz/SPq
+zXldY3fHgxdyOx7uPZCdu/mV2v0yHhyWb5ftXpSevmn0bSIk5dTkpQyuCLxdUvwg
+3h0HnYuGCnY2DrfdOtaUlrfhifkb3GJCdw==
+=v7eA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jonathanpike
+
+==================================================================
