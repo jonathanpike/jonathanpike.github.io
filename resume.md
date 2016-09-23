@@ -11,6 +11,18 @@ I'm a programmer by nature; programming excites the problem-solving part of my b
 
 ## Experience
 <div>
+	<h4><strong>Full Stack Web Developer</strong> <span class="pull-right">May 2016 - Current</span></h4>
+	<p><span class="highlight">BioConnect</span></p>
+	
+	<p>Currently building <a href="https://teamworks.cloud">Teamworks</a>, a time and attendance application for HR managers, working on a team of 3 developers.</p>
+	
+	<strong>My Accomplishments:</strong>
+	<ul>
+		<li>Designed and built both front and back end components of timecards and scheduling, exceeding customer requirements.</li>
+		<li>Wrote a test suite for new portions of the application using Minitest and configured Gitlab CI to automatically run the test suite for new commits to prevent regressions.</li>
+	</ul>
+</div>
+<div>
 	<h4><strong>Remote Junior Web Developer</strong> <span class="pull-right">Nov - Dec 2015</span></h4>
 	<p><span class="highlight">The Firehose Project</span></p>
 
