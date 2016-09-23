@@ -11,7 +11,7 @@ I'm a programmer by nature; programming excites the problem-solving part of my b
 
 ## Experience
 <div>
-	<h4><strong>Full Stack Web Developer</strong> <span class="pull-right">May 2016 - Current</span></h4>
+	<h4><strong>Full Stack Web Developer</strong> <span class="pull-right">May 2016 - Present</span></h4>
 	<p><span class="highlight">BioConnect</span></p>
 	
 	<p>Currently building <a href="https://teamworks.cloud">Teamworks</a>, a time and attendance application for HR managers, working on a team of 3 developers.</p>
@@ -70,7 +70,7 @@ I'm a programmer by nature; programming excites the problem-solving part of my b
 	</div>
 </div>
 <div> 
-	<h4><strong>Wills and Estates Law Clerk</strong> <span class="pull-right">Nov 2011 - Present</span></h4>
+	<h4><strong>Wills and Estates Law Clerk</strong> <span class="pull-right">Nov 2011 - May 2016</span></h4>
 	<p><span class="highlight">Sanguinetti + associates (formerly Wright & Associates)</span></p>
 
 	<p>With no prior training, I obtained a level of professionalism and proficiency in just 6 months at this boutique legal practice, preparing Wills, Powers of Attorney, and a variety of Court documents for Estate Administration.</p>
