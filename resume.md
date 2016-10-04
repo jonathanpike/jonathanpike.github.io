@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 ## Summary
-I'm a programmer by nature; programming excites the problem-solving part of my brain.  	My process is to plan before I code, gathering information to determine the best approach, write tests to verify the solution, then solve the problem. Daily practice refines my current skills and solidifies new ones, and continuously learning new languages, frameworks, and design patterns makes me more efficient. I love the web and want to make it better by building great things. 
+I'm a software engineer by nature; programming excites the problem-solving part of my brain.  	My process is to plan before I code, gathering information to determine the best approach, write tests to verify the solution, then solve the problem. Daily practice refines my current skills and solidifies new ones, and continuously learning new languages, frameworks, and design patterns makes me more efficient. I love the web and want to make it better by building great things. 
 
 <hr class="divider" />
 
