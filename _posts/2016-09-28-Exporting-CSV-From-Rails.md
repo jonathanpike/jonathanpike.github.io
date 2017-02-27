@@ -13,7 +13,7 @@ Calling `to_csv` is a great option if you only ever need the CSV data in one for
 
 Rails controller actions respond to HTML by default.  Luckly, setting up your controller to respond to CSV is really easy using [`ActionController::MimeResponds#respond_to`](http://api.rubyonrails.org/classes/ActionController/MimeResponds.html#method-i-respond_to), as follows: 
 
-```
+```ruby
 def index
 	# Standard model queries here...
 	
@@ -30,7 +30,7 @@ The most important portion of the `index` action is the `@template` variable.  W
 
 **Bonus Tip:** Optionally, you can also set the `Content-Disposition` header to make the CSV file download automatically and set a file name, like so: 
 
-```
+```ruby
 format.csv do 
 	headers['Content-Disposition'] = "attachment;filename=Your-File-Name-Here.csv"
 	render template: "path/to/#{@template}"
@@ -41,7 +41,7 @@ end
 
 Here's where Ruby's CSV Library comes in handy.  Create as many CSV templates (in `csv.erb` format, so you can embed Ruby directly in the template) as you need and save them wherever it makes sense.  They will each look something like this (obviously, with variation in the data displayed): 
 
-```
+```ruby
 <% export = CSV.generate(" ", { headers: ["Array", "Of", "Headers"], write_headers: true, encoding: "UTF-8}) do |csv| %> 
 	<% csv.add_row data %> 
 <% end %>
