@@ -5,7 +5,7 @@ Description: Have unexplained whitespace in your CSV output from Rails?  This ma
 Date: 2017-02-27 14:30:00
 ---
 
-**TLDR**: Blank lines in a `csv.erb` template render as whitespace in the final CSV output.
+**TLDR**: Blank lines in a `.csv.erb` template render as whitespace in the final CSV output.
 
 Using the method I [described](https://jonathanpike.net/2016/09/Exporting-CSV-From-Rails) for exporting CSV, I created a new template and was testing it.  When I downloaded the CSV file and opened it, it appeared that the file was empty.  What was going on? I noticed that the scroll bar was rather long, so I started scrolling… and scrolling… and scrolling, down 1369 lines.  There’s the data. Then, I looked at the total lines in the file:  2738, which is double 1369.  It appears that, somewhere, I was inserting 1368 blank lines into the file prior to the data being written.  
 
@@ -15,4 +15,4 @@ Next, I started removing elements from the CSV template until I found the culpri
 
 Finally, I decided to try something that I thought was crazy: I had defined a few variables in ERB tags earlier in the document, and I had inserted a blank line between each of these for readability.  What if I removed those?  The output began at line one. Bingo! Not so crazy after all!
 
-If you have more whitespace than you bargained for in CSV output and are using a `csv.erb` view template, check for blank lines. These could be the culprit. 
+If you have more whitespace than you bargained for in CSV output and are using a `.csv.erb` view template, check for blank lines. These could be the culprit. 
