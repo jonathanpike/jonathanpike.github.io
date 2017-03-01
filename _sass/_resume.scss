@@ -1,0 +1,54 @@
+#name {
+  color: #69C5FF;
+}
+
+.divider {
+  border-top: 2px solid rgba(125, 222, 255, 0.5);
+}
+
+.social {
+  list-style: none;
+  padding: 0px;
+  li {
+    display: inline;
+    margin: 0px 10px 0px 10px;
+    @media only screen and (max-width: 500px) {
+      margin: -2px;
+    }
+  }
+}
+
+a.social--link {
+  border-bottom: none;
+}
+
+svg.social--graphic {
+  transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+}
+svg.social--graphic:hover {
+  fill: rgb(255, 200, 125)
+}
+
+.highlight-text {
+	font-style:italic;
+	background-color:#FAF9DE;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: flex-start;
+  @media only screen and (max-width: 750px) {
+    flex-wrap: wrap;
+  }
+}
+
+.flex-child {
+  width: 175px;
+}
+
+.rule {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
