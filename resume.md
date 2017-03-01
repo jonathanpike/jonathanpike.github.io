@@ -5,81 +5,37 @@ permalink: /resume/
 ---
 
 ## Summary
-I'm a software engineer by nature; programming excites the problem-solving part of my brain.  	My process is to plan before I code, gathering information to determine the best approach, write tests to verify the solution, then solve the problem. Daily practice refines my current skills and solidifies new ones, and continuously learning new languages, frameworks, and design patterns makes me more efficient. I love the web and want to make it better by building great things. 
+I love the web and want to make it better by building great things. 
 
 <hr class="divider" />
 
 ## Experience
 <div>
-	<h4><strong>Full Stack Web Developer</strong> <span class="pull-right">May 2016 - Present</span></h4>
-	<p><span class="highlight">BioConnect</span></p>
+	<h4><strong>Full Stack Rails Developer</strong> <span class="pull-right">May 2016 - Present</span></h4>
+	<p><span class="highlight-text">BioConnect</span></p>
 	
-	<p>Currently building <a href="https://teamworks.cloud">Teamworks</a>, a time and attendance application for HR managers, working on a team of 3 developers.</p>
+	<p>Currently building <a href="https://teamworks.cloud">TeamWorks</a>, a time and attendance application for small to medium businesses.</p>
 	
 	<strong>My Accomplishments:</strong>
 	<ul>
-		<li>Designed and built both front and back end components of timecards and scheduling, exceeding customer requirements.</li>
-		<li>Wrote a test suite for new portions of the application using Minitest and configured Gitlab CI to automatically run the test suite for new commits to prevent regressions.</li>
+    <li>Lead the development of a dashboard for internal teams to provide insight into app usage and inform future product development using <a href="https://vuejs.org">Vue.js</a> in a Rails Engine.</li>
+    <li>Eliminated manual sales processes by creating an onboarding process for new customers and integrated with
+    <a href="http://stripe.com/">Stripe</a> for online payments.</li>
+		<li>Chief architect of the new timecards and scheduling modules, implementing Rails conventions for easier maintenance.</li>
+		<li>Developed a testing protocol and built a test suite using Minitest and Capybara. Configured GitLab CI to run the test suite with each commit.</li>
 	</ul>
-</div>
-<div>
-	<h4><strong>Remote Junior Web Developer</strong> <span class="pull-right">Nov - Dec 2015</span></h4>
-	<p><span class="highlight">The Firehose Project</span></p>
-
-	<p>Built a Ruby on Rails chess web application, working on a remote team of 5 developers, that enforces the rules of chess, including preventing users moving into check and support for <a href="https://en.wikipedia.org/wiki/Castling">castling</a> and <a href="https://en.wikipedia.org/wiki/En_passant">en passant</a>. <a href="https://github.com/teamendgame/endgame-chess">View the GitHub repository</a> and <a href="http://endgame-chess.herokuapp.com/">the app running in production on Heroku</a>.</p>
-
-	<strong>My Accomplishments:</strong>
-	<ul>
-		<li>Wrote the business logic for determining if the game is in the state of <a href="https://github.com/teamendgame/endgame-chess/pull/41/files">check</a> and <a href="https://github.com/teamendgame/endgame-chess/pull/67">checkmate</a>.</li>
-		<li>Uncovered, tracked down, and resolved several bugs in both our Ruby and Javascript code, including an intermittent bug that prevented movement of some pieces. See <a href="https://github.com/teamendgame/endgame-chess/pull/63">Pull Request 1</a> and <a href="https://github.com/teamendgame/endgame-chess/pull/77">Pull Request 2</a> on GitHub.</li>
-		<li>Followed test-driven development, Agile and SCRUM methodologies, and had frequent code reviews and pair programming sessions.  Held accountable for my performance by Travis Johnson, a devops engineer at <a href="http://www.truex.com/">true[X]</a>, who led the team.</li>		
-	</ul>
-
-	<strong>Tools and Services:</strong>
-	<div class="flex-container">
-		<div class="flex-child">
-			<p>Operational Tools:</p>
-			<ul class="tech-skills">
-				<li><a href="https://heroku.com">Heroku</a></li>
-				<li><a href="https://git-scm.com/">Git</a></li>
-				<li><a href="https://travis-ci.org/">Travis CI</a></li>
-			</ul>
-		</div>
-		<div class="flex-child">
-			<p>Workflow Tools:</p>
-			<ul class="tech-skills">
-				<li><a href="https://trello.com/">Trello</a></li>
-				<li><a href="https://slack.com/">Slack</a></li>
-				<li><a href="https://screenhero.com/">Screenhero</a></li>
-			</ul>
-		</div>
-		<div class="flex-child">
-			<p>External Services:</p>
-			<ul class="tech-skills">
-				<li><a href="https://pusher.com/">Pusher</a></li>
-			</ul>
-		</div>
-		<div class="flex-child">
-			<p>Libraries:</p>
-			<ul class="tech-skills">
-				<li><a href="https://github.com/bbatsov/rubocop">Rubocop</a></li>
-				<li><a href="https://github.com/seattlerb/minitest">Minitest</a></li>
-				<li><a href="https://jquery.com/">jQuery</a></li>
-			</ul>
-		</div>
-	</div>
 </div>
 <div> 
 	<h4><strong>Wills and Estates Law Clerk</strong> <span class="pull-right">Nov 2011 - May 2016</span></h4>
-	<p><span class="highlight">Sanguinetti + associates (formerly Wright & Associates)</span></p>
+	<p><span class="highlight-text">Sanguinetti + associates</span></p>
 
 	<p>With no prior training, I obtained a level of professionalism and proficiency in just 6 months at this boutique legal practice, preparing Wills, Powers of Attorney, and a variety of Court documents for Estate Administration.</p>
 
 	<strong>My Responsibilities:</strong>
 	<ul>
-		<li>Practices effective time management and multitasking to guarantee timely completion of work, meeting deadlines and maintaining high quality of work.</li>	
-		<li>Communicates with clients in a professionally friendly manner on a day-to-day basis in person and over the phone, ensuring customer satisfaction.</li>		
-		<li>Drafts and proofreads legal documents of varying complexity, unsupervised and with minimal instruction, demonstrating excellent attention to detail.</li>		
+		<li>Practiced effective time management and multitasking to guarantee timely completion of work, meeting deadlines and maintaining high quality of work.</li>	
+		<li>Communicated with clients in a professionally friendly manner on a day-to-day basis in person and over the phone, ensuring customer satisfaction.</li>		
+		<li>Drafted and proofread legal documents of varying complexity, unsupervised and with minimal instruction, demonstrating excellent attention to detail.</li>		
 	</ul>
 </div>
 
@@ -88,7 +44,7 @@ I'm a software engineer by nature; programming excites the problem-solving part 
 ## Education and Professional Development
 <div>
 	<h4><strong>Programming Bootcamp</strong> <span class="pull-right">Sept - Dec 2015</span></h4>
-	<p><span class="highlight">The Firehose Project</span></p>
+	<p><span class="highlight-text">The Firehose Project</span></p>
 
 	<p>Became a capable software developer in this intensive 15-week program, able to break complex problems into more manageable problems. I gained experience with the following tools of the trade:</p>
 	<ul>
@@ -105,20 +61,33 @@ I'm a software engineer by nature; programming excites the problem-solving part 
 	</ul>
 </div>	
 <div>
+	<h4><strong>Capstone Project</strong> <span class="pull-right">Nov - Dec 2015</span></h4>
+	<p><span class="highlight-text">The Firehose Project</span></p>
+
+	<p>Built a Ruby on Rails chess web application, working on a remote team of 5 developers, that enforces the rules of chess, including preventing users moving into check and support for <a href="https://en.wikipedia.org/wiki/Castling">castling</a> and <a href="https://en.wikipedia.org/wiki/En_passant">en passant</a>. <a href="https://github.com/teamendgame/endgame-chess">View the GitHub repository</a> and <a href="http://endgame-chess.herokuapp.com/">the app running in production on Heroku</a>.</p>
+
+	<strong>My Accomplishments:</strong>
+	<ul>
+		<li>Wrote the business logic for determining if the game is in the state of <a href="https://github.com/teamendgame/endgame-chess/pull/41/files">check</a> and <a href="https://github.com/teamendgame/endgame-chess/pull/67">checkmate</a>.</li>
+		<li>Uncovered, tracked down, and resolved several bugs in both our Ruby and Javascript code, including an intermittent bug that prevented movement of some pieces. See <a href="https://github.com/teamendgame/endgame-chess/pull/63">Pull Request 1</a> and <a href="https://github.com/teamendgame/endgame-chess/pull/77">Pull Request 2</a> on GitHub.</li>
+		<li>Followed test-driven development, Agile and SCRUM methodologies, and had frequent code reviews and pair programming sessions.  Held accountable for my performance by Travis Johnson, a devops engineer at <a href="http://www.truex.com/">true[X]</a>, who led the team.</li>		
+	</ul>
+</div>
+<div>
 	<h4><strong>A+ Certified</strong> <span class="pull-right">2014</span></h4>
-	<p><span class="highlight">CompTIA</span></p>
+	<p><span class="highlight-text">CompTIA</span></p>
 	<p>Certification valid until December 13, 2017</p>
 	<p><a href="http://verify.comptia.org">Verify</a> with code ZJP0VX3D83RE2TM5</p>
 </div>
 <div>
 	<h4><strong>Honours Bachelor of Arts with Distinction</strong> <span class="pull-right">2006-2010</span></h4>
-	<p><span class="highlight">University of Toronto</span></p>
+	<p><span class="highlight-text">University of Toronto</span></p>
 	<p>Double Major: Management  and Political Science</p>
 	<p>GPA: 3.30</p>
 </div>
 <div>
 	<h4><strong>Mathematical and Computational Sciences Honour Roll</strong> <span class="pull-right">2009 - 2010 </span></h4>
-	<p><span class="highlight">University of Toronto</span></p>
+	<p><span class="highlight-text">University of Toronto</span></p>
 </div>
 
 <hr class="divider" />
@@ -128,20 +97,18 @@ I'm a software engineer by nature; programming excites the problem-solving part 
 	<div class="flex-child">
 		<p>What I know:</p>
 		<ul class="tech-skills">
+			<li>Ruby, Rails</li>
+			<li>JavaScript, CoffeeScript</li>
 			<li>HTML</li>
 			<li>CSS3, Sass</li>
-			<li>Ruby, Rails</li>
-			<li>JavaScript</li>
-			<li>Python</li>
-			<li>Git</li>
-			<li>Vagrant</li>
 			<li>Postgresql</li>
+			<li>Git</li>
 		</ul>
 	</div>
 	<div class="flex-child">
 		<p>What I'm learning:</p>
 		<ul class="tech-skills">
-			<li><a href="https://reactforbeginners.com/">React</a></li>
+			<li>Go</li>
 		</ul>
 	</div>
 </div>
