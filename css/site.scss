@@ -1,7 +1,7 @@
 ---
 ---
 // Imports
-@import "bootstrap";
+@import "neat";
 @import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
 @import "animate";
 @import "syntax-highlighting";
@@ -12,10 +12,4 @@
 @import "archive";
 @import "footer";
 @import "resume";
-
-// Formatting
-
-.center-image {
-    margin: 0 auto;
-    display: block;
-}
+@import "utilities";
