@@ -37,6 +37,8 @@ a:link {
   border-bottom: 1px black dotted;
   text-decoration: none;
   color: $pd-dark-blue;
+  transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
 }
 
 a:visited {
