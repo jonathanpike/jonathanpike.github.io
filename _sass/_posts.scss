@@ -1,4 +1,10 @@
 .contentbox {
+  @include grid-column(12);
+
+  @include grid-media($large-neat-grid){
+    @include grid-column(7);
+  }
+
   margin-bottom: 20px;
   padding: 0px 30px 0px 30px;
   @media only screen and (max-width: 500px) {

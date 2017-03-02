@@ -1,8 +1,17 @@
 // Global Variables
+// Colors
 $pd-light-blue: #69C5FF;
 $pd-dark-blue: #4BB7FC; 
 $pd-transparent-blue: rgba(125, 222, 255, 0.5);
 $pd-orange: #EFAA4C;
 $pd-yellow: #FDF6E3;
 
+// Fonts
 $pd-fixed-width-font-stack: 'Inconsolata', ;
+
+// Grid Settings
+$large-neat-grid: (
+  columns: 12,
+  gutter: 20px,
+  media: 1000px,
+);
