@@ -26,14 +26,12 @@
 .update { 
   padding: 15px;
   margin-bottom: 20px;
-  border: 1px solid #bce8f1;
   border-radius: 4px;
-  background-color: #d9edf7;
-  color: #31708f;
+  background-color: $pd-yellow; 
 }
 
 code {
-  background-color:#fdf6e3;
-  font-family: 'Inconsolata', ;
+  background-color: $pd-yellow;
+  font-family: $pd-fixed-width-font-stack; 
   font-size: 1.1em;
 }
