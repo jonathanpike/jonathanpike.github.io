@@ -21,12 +21,4 @@ If you like the theme of this blog, you can use it on your own Jekyll blog.  [Vi
 - Resume - [jonathanpike.net/resume](http://jonathanpike.net/resume)
 - Keybase - [jonathanpike](https://keybase.io/jonathanpike)
 
-### Credits
-
-Personal Development is brought to you in part by the following awesome tools: 
-
-- [Jekyll](http://jekyllrb.com/) -- Generates all of the pages you see
-- [Bootstrap](http://getbootstrap.com/) -- An amazing CSS framework that makes everything beautiful
-- [GitHub](https://github.com/jonathanpike/jonathanpike.github.io) -- Jonathanpike.net is hosted with GitHub Pages
-
 <br />
