@@ -1,8 +1,8 @@
 ---
 layout: post
-Title: Migrating from Boostrap-Sass v3.3.5 to Neat 2.0.0
-Description: Switching from Bootstrap to Neat for my grid system was easier than I expected.  Here's what I learned. 
-Date: 2017-03-06 16:34:00
+title: Migrating from Boostrap-Sass v3.3.5 to Neat 2.0.0
+description: Switching from Bootstrap to Neat for my grid system was easier than I expected.  Here's what I learned. 
+date: 2017-03-06 16:34:00
 ---
 
 A long time ago, I opened an [issue](https://github.com/jonathanpike/jonathanpike.github.io/issues/2) that simply said: 
