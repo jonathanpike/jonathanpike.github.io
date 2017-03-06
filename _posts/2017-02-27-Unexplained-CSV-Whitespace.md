@@ -1,8 +1,8 @@
 ---
 layout: post
-Title: Unexplained CSV Whitespace
-Description: Have unexplained whitespace in your CSV output from Rails?  This may solve your problem!
-Date: 2017-02-27 14:30:00
+title: Unexplained CSV Whitespace
+description: Have unexplained whitespace in your CSV output from Rails?  This may solve your problem!
+date: 2017-02-27 14:30:00
 ---
 
 **TLDR**: Blank lines in a `.csv.erb` template render as whitespace in the final CSV output.
