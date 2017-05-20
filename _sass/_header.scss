@@ -12,9 +12,30 @@
 	padding: 0 15px;
 }
 
+.namebox-title {
+  @media only screen and (max-width: 768px) {
+    font-size: $font-size-h3;
+    display: inline-block;
+  }
+}
+
+.namebox-subtitle {
+  @media only screen and (max-width: 768px) {
+    display: none;
+  }
+}
+
 .navigation {
   list-style: none;
   padding: 0px;
+}
+
+.navigation-item {
+  @media only screen and (max-width: 768px) {
+    display: inline-block;
+    width: calc(90%/3);
+    text-align: center;
+  }
 }
 
 .title a:link {
@@ -24,4 +45,5 @@
 .title a:visited {
   text-decoration: none;
 }
+
 
