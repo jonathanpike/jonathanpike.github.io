@@ -10,11 +10,20 @@
   border: 2px solid $pd-transparent-blue; 
   position: relative;
 	padding: 0 15px;
+  @media only screen and (max-width: $screen-tablet) {
+    margin-top: 5px;
+    border: 0;
+    border-bottom: 2px solid $pd-transparent-blue;
+    margin-left: 0px;
+    width: auto;
+    float: none;
+  }
 }
 
 .namebox-title {
   @media only screen and (max-width: $screen-tablet) {
     display: inline-block;
+    font-size: $font-size-h4
   }
 }
 
