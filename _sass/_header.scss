@@ -13,14 +13,13 @@
 }
 
 .namebox-title {
-  @media only screen and (max-width: 768px) {
-    font-size: $font-size-h3;
+  @media only screen and (max-width: $screen-tablet) {
     display: inline-block;
   }
 }
 
 .namebox-subtitle {
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: $screen-tablet) {
     display: none;
   }
 }
@@ -31,10 +30,17 @@
 }
 
 .navigation-item {
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: $screen-tablet) {
     display: inline-block;
     width: calc(90%/3);
     text-align: center;
+    margin: 0 2px;
+  }
+}
+
+.navigation-item-text { 
+  @media only screen and (max-width: $screen-tablet) {
+    font-size: $font-size-h5;
   }
 }
 

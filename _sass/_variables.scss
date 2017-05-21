@@ -48,3 +48,12 @@ $table-cell-padding: 0.75rem !default;
 $large-neat-grid: (
   media: 1000px,
 );
+
+// Media Query Breakpoints
+$screen-phone: 480px !default;
+
+$screen-tablet: 768px !default;
+
+$screen-desktop: 992px !default;
+
+$screen-wide-desktop: 1200px !default;
