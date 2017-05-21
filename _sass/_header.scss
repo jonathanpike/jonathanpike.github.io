@@ -22,8 +22,8 @@
 
 .namebox-title {
   @media only screen and (max-width: $screen-tablet) {
-    display: inline-block;
-    font-size: $font-size-h4
+    font-size: $font-size-h4;
+    text-align: center;
   }
 }
 
@@ -60,5 +60,4 @@
 .title a:visited {
   text-decoration: none;
 }
-
 
