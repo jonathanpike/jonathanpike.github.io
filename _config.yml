@@ -1,10 +1,9 @@
 # Site settings
-title: Personal Development
-description: by Jonathan Pike
+title: Jonathan Pike, software developer
+description: The personal weblog of Jonathan Pike, exploring life as a software developer
 email: jonathan.d.s.pike@gmail.com
 author: Jonathan Pike
 url: "http://www.jonathanpike.net"
-baseurl: "" 
 paginate: 5
 paginate_path: "/page/:num"
 timezone: America/Toronto
