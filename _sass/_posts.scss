@@ -31,9 +31,15 @@ pre {
   word-break: break-all;
   word-wrap: break-word; 
 }
+
 code {
   background-color: $pd-yellow;
   font-family: $pd-font-family-monospace;
   white-space: pre-wrap;
-  font-size: 90%
+  font-size: 90%;
+}
+
+code.highlighter-rouge {
+  font-size: 100%;
+  padding: 3px;
 }
