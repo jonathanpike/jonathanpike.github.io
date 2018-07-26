@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Jonathan Pike](/assets/jonathan.jpg){:class="img-responsive"}
 
-I'm Jonathan Pike, a software developer in Mississauga, Ontario. I seek to deeply understand the programming languages I learn, through both [practice](http://jonathanpike.net/2015/09/26/Always-Be-Coding.html) and [research](http://jonathanpike.net/2015/11/24/Smooth-Ruby-Operators.html). I love the web, open source software, and fixing that one stubborn bug that refuses to be fixed. 
+I'm Jonathan Pike, a software developer in London, Ontario. I seek to deeply understand the programming languages I learn, through both [practice](http://jonathanpike.net/2015/09/26/Always-Be-Coding.html) and [research](http://jonathanpike.net/2015/11/24/Smooth-Ruby-Operators.html). I love the web, open source software, and fixing that one stubborn bug that refuses to be fixed. 
 
 ### Theme
 
