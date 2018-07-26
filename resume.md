@@ -11,10 +11,16 @@ I love the web and want to make it better by building great things.
 
 ## Experience
 <div>
-	<h4><strong>Full Stack Rails Developer</strong> <span class="pull-right">May 2016 - Present</span></h4>
+	<h4><strong>Full Stack Rails Developer</strong> <span class="pull-right">Jun 2017 - Present</span></h4>
+	<p><span class="highlight-text">SkyVerge</span></p>
+	
+	<p>Currently building <a href="https://jilt.com">Jilt</a>, email marketing built for eCommerce.</p>
+</div>
+<div>
+	<h4><strong>Full Stack Rails Developer</strong> <span class="pull-right">May 2016 - Jun 2017</span></h4>
 	<p><span class="highlight-text">BioConnect</span></p>
 	
-	<p>Currently building <a href="https://teamworks.cloud">TeamWorks</a>, a time and attendance application for small to medium businesses.</p>
+	<p>I built <a href="https://teamworks.cloud">TeamWorks</a>, a time and attendance application for small to medium businesses.</p>
 	
 	<strong>My Accomplishments:</strong>
 	<ul>
