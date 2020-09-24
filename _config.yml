@@ -9,10 +9,11 @@ paginate_path: "/page/:num"
 timezone: America/Toronto
 
 # SEO
-twitter:
-  username: jonathanpike
 social:
-  links: ['https://ca.linkedin.com/in/pikejonathan', 'https://twitter.com/jonathanpike', 'https://github.com/jonathanpike']
+  name: Jonathan Pike
+  links:
+    - https://ca.linkedin.com/in/pikejonathan
+    - https://github.com/jonathanpike
 
 # Build settings
 markdown: kramdown
@@ -20,11 +21,11 @@ sass:
   style: compressed
 
 # Markdown Processor
-kramdown: 
+kramdown:
   input: GFM
 
 # Gems
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
