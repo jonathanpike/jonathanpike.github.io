@@ -17,6 +17,6 @@ If you like the theme of this blog, you can use it on your own Jekyll blog. [Vie
 - Twitter - [jonathanpike](https://twitter.com/jonathanpike)
 - GitHub - [jonathanpike](https://github.com/jonathanpike)
 - LinkedIn - [pikejonathan](https://ca.linkedin.com/in/pikejonathan)
-- Resume - [jonathanpike.net/resume](http://jonathanpike.net/resume)
+- Resume - [jonathanpike.net/resume](/resume)
 
 <br />
