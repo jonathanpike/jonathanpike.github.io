@@ -13,13 +13,13 @@ I love the web and want to make it better by building great things.
 ## Experience
 
 <div>
-	<h4><strong>Full Stack Rails Developer</strong> <span class="pull-right">September 2020 - Present</span></h4>
+	<h4><strong>Senior Software Engineer</strong> <span class="pull-right">September 2020 - Present</span></h4>
 	<p><span class="highlight-text">GoDaddy</span></p>
 	
 	<p><a href="https://www.skyverge.com/blog/skyverge-joins-godaddy/">GoDaddy acquired SkyVerge in September 2020</a>. Currently building pieces of the <a href="https://ca.godaddy.com/hosting/ecommerce-hosting">WordPress Ecommerce solution</a>.</p>
 </div>
 <div>
-	<h4><strong>Full Stack Rails Developer</strong> <span class="pull-right">Jun 2017 - September 2020</span></h4>
+	<h4><strong>Senior Software Engineer</strong> <span class="pull-right">Jun 2017 - September 2020</span></h4>
 	<p><span class="highlight-text">SkyVerge</span></p>
 	
 	<p>I built <a href="https://jilt.com">Jilt</a>, email marketing software built for eCommerce.</p>
