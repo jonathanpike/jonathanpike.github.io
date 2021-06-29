@@ -27,6 +27,7 @@ I love the web and want to make it better by building great things.
 	<strong>My Accomplishments:</strong>
 	<ul>
 	<li>Lead the development of import/export systems with a focus on data flexibility.</li>
+	<li>Built out a GraphQL API to support a React frontend using GraphQL-Ruby.</li>
 	<li>Got to work with a complex Elasticsearch installation that drove a custom email segmentation engine.</li>
 	<li>Took ownership of the Angular-based email editor and was responsible for all new feature requests and bug fixes.</li>
 	</ul>
